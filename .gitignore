@@ -11,3 +11,4 @@ typings/
 node_modules
 
 secret.json
+.env
