@@ -21,8 +21,8 @@ This project is a backend application for managing users and their notes using T
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/webbedpiyush/intern-assignment.git
+   cd intern-assignment
 
    ```
 
